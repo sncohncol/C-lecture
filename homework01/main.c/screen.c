@@ -41,7 +41,7 @@ int writeStringToBuffer(const char* string, char* screenBuf, int width, int x, i
 
 int setTitleToScreenBuffer(char* screenBuf, int width, int height)
 {
-    const char* title = "1. 게임 시작하기\n 2. 게임 설명 \n3. 게임 종료";
+    const char* title = "농장을 지켜라";
     int x = (width / 2) - (strlen(title) / 2);
     int y = height / 2;
 
