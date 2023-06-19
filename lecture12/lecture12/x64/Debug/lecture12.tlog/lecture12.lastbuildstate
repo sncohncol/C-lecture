@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.35.32215:TargetPlatformVersion=10.0.22000.0:
+=======
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.34.31933:TargetPlatformVersion=10.0.22000.0:
+>>>>>>> 2327e950bf6215e72def592d37e8fb643ac646f4
 Debug|x64|D:\elflee\Yuhan_C\lecture12\|

@@ -1,0 +1,2 @@
+C:\Users\elfle\source\repos\Yuhan_C\lecture14\lecture14\x64\Debug\lecture14.exe
+C:\git\C-lecture\lecture14\lecture14\x64\Debug\lecture14.exe
